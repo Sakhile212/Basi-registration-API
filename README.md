@@ -1,5 +1,8 @@
 # Basic REST API – Users
-
+- Download Zip File
+- Open Terminal In VS Code
+- npm install
+  
 ## Features
 - Create user
 - Read users
@@ -13,7 +16,6 @@
 - Postman
 
 ## Run Project
-npm install
 npm run dev
 
 ## API Endpoints
